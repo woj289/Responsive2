@@ -1,0 +1,204 @@
+body
+{
+	background-color : #323232;
+	color:white;
+	font-family: 'Lato', sans-serif;
+}
+
+#container
+{
+	width : 1000px;
+	height : 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.stopka
+{
+	float:left;
+	font-size : 70px;
+	width:960px;
+	padding : 20px;
+}
+.stopka1
+{
+	
+	float:left;
+	width:960px;
+	text-align : center;
+	
+}
+
+.logo
+{
+	float: left;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 70px;
+	width: 600px;
+	text-align: left;
+	margin-left:10px;
+}
+
+.zegar
+{
+	float:left;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.square
+{
+	float:left;
+	width: 50%;
+	
+}
+
+.tile1
+{
+	float:left;
+	width: 230px;
+	height: 142px;
+	margin : 10px;
+	background-color: #3300CC;
+	font-size : 20px;
+	
+}
+
+.tile1:hover
+{
+	background-color: #2200BB;
+}
+
+.tile2
+{
+	float:left;
+	width: 230px;
+	height: 142px;
+	margin : 10px;
+	background-color: #3300CC;
+}
+
+.tile2:hover
+{
+	background-color: #2200BB;
+}
+
+.tile3
+{
+	float:left;
+	width: 230px;
+	height: 142px;
+	margin : 10px;
+	background-color: #8D8D8D;
+}
+
+.tile3:hover
+{
+	background-color: #7C8C8C;
+}
+
+.tile4
+{
+	float:left;
+	width: 230px;
+	height: 142px;
+	margin : 10px;
+	background-color:#66CC33;
+}
+
+.tile4:hover
+{
+	background-color: #55BB22;
+}
+
+#tile5
+{
+	float:left;
+	width: 440px;
+	height: 264px;
+	margin : 10px;
+	padding : 20px;
+	background-color: #8D8D8D;
+	text-align : justify;
+	font-size : 20px;
+}
+
+.tile6
+{
+	float:left;
+	width: 440px;
+	height: 82px;
+	padding : 20px;
+	margin : 10px;
+	background-color : #990033;
+	text-align : center;
+	font-size : 24px;
+}
+
+.tile6:hover
+{
+	background-color: #880022;
+}
+
+.yt
+{
+	float:left;
+	width: 102px;
+	height: 122px;
+	margin : 10px;
+	background-color: #d94348;
+	margin:10px;
+
+}
+.yt:hover
+{
+	background-color: #c83237;
+}
+.fb
+{
+	float:left;
+	width: 102px;
+	height: 122px;
+	margin : 10px;
+	background-color: #4668b3;
+	margin:10px;
+
+}
+.fb:hover
+{
+	background-color: #3557a2;
+}
+
+.gp
+{
+	float:left;
+	width: 102px;
+	height: 122px;
+	margin : 10px;
+	background-color: #d95333;
+	margin:10px;
+
+}
+.gp:hover
+{
+	background-color: #c84222;
+}
+.tw
+{
+	float:left;
+	width: 102px;
+	height: 122px;
+	margin : 10px;
+	background-color: #3095d3;
+	margin:10px;
+
+}
+.tw:hover
+{
+	background-color: #2084c2;
+}
+
+.nic
+{
+	width : 0px;
+	height : 0px;
+}
